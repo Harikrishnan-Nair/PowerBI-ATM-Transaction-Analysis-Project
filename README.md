@@ -4,7 +4,8 @@ The dataset can be accessed through link:https://drive.google.com/drive/folders/
 ![2](https://github.com/Harikrishnan-Nair/PowerBI-ATM-Transaction-Analysis-Project/assets/95662379/307831a5-454c-4158-8403-09d331011a59)
 It consists of data related to transactions(of 5 states in Africa), customers, ATM location, calender, transaction type, hour data. All the these data were loaded to the PowerBI and few new columns were calculated folowing which the models were loaded and visuals were created. The visuals so created will garner to the bank managements queries raised and also help them to perform better decisions based on the data.
 
-![2](https://github.com/Harikrishnan-Nair/PowerBI-ATM-Transaction-Analysis-Project/assets/95662379/c7c5f591-73c8-41a3-bf00-af0b4f44aead)
+![3](https://github.com/Harikrishnan-Nair/PowerBI-ATM-Transaction-Analysis-Project/assets/95662379/6f5deeab-ce40-4224-bdc0-d2f82c560ab7)
+
 
 Some of the key insights and recommendations are as below
 Key Insights:
